@@ -1,6 +1,9 @@
 p {
     color: blue;
     background-color: chocolate;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
 }
 h1{
     color:red;
